@@ -9,6 +9,7 @@ import TrackVisibility from 'react-on-screen';
 
 export const Projects = () => {
 
+
   const projects = [
     {
       title: "Business Startup",
@@ -41,7 +42,6 @@ export const Projects = () => {
       imgUrl: projImg3,
     },
   ];
-
   return (
     <section className="project" id="projects">
       <Container>
