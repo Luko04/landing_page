@@ -7,3 +7,4 @@ pip install vite
 ```
 npm run dev
 ```
+Atencion: La rama main es la mas actualizada
