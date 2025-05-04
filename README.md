@@ -4,3 +4,6 @@ Tambien debes descargar Vite (herramienta de desarrollo Frontend) con el siguien
 ```
 pip install vite
 ```
+```
+npm run dev
+```
