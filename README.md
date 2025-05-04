@@ -1,3 +1,11 @@
-Creacion de landing page de Devko, destinada a ofrecer servicios tecnológicos.
-Rama main con los cambios mas recientes.
-Realizada con React, clonar y ejecutar npm run dev
+Devko es una landing page desarrollada con React (biblioteca de JavaScript), ha sido creada especificamente para ofrecer servicios tecnologicos.
+Utiliza la herramienta de control de versiones Git para clonar el repositorio y ejecuta npm run dev.
+Tambien debes descargar Vite (herramienta de desarrollo Frontend) con el siguiente comando
+```
+pip install vite
+```
+```
+npm run dev
+```
+Atencion: La rama main es la mas actualizada
+
